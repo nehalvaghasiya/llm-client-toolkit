@@ -1,0 +1,6 @@
+openai>=1.22,<2.0          # async client, token counting, etc.
+PyYAML>=6.0,<7.0           # YAML loader for config files
+pydantic>=2.7,<3.0         # strong typing & validation
+# langchain-openai>=0.2,<0.3
+# llama-index>=0.10,<0.11
+# pydantic-ai>=0.0.3,<0.1
