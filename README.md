@@ -219,13 +219,3 @@ Spotted a bug, need another backend, or fancy streaming‑token support?
 * **Bug?**  [Open an issue](https://github.com/nehalvaghasiya/llm-client-toolkit/issues) with a minimal, reproducible example.
 * **Feature?**  Describe the use‑case; PRs are welcome once we agree on the scope.
 
-
-## Technologies Used
-
-<p>
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="40"/>
-  ![2209625](https://github.com/user-attachments/assets/1d73fed1-99c3-4336-8874-b1b53c29d732)
-  <img width="843" alt="224575138-a1c3e3ad-0831-4717-aae2-ed185f96411d" src="https://github.com/user-attachments/assets/6080371c-9f77-4d71-8db8-09d0ebb3ec10" />
-
-</p>
-
