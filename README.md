@@ -12,7 +12,6 @@
 * [Troubleshooting](#troubleshooting)
 * [Directory Tree](#directory-tree)
 * [Contributing — Bugs & Feature Requests](#contributing--bugs--feature-requests)
-* [Technologies Used](#technologies-used)
 
 
 ## Overview
