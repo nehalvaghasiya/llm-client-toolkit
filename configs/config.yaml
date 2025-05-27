@@ -1,0 +1,9 @@
+# Model & generation
+model: "meta-llama/llama-4-scout-17b-16e-instruct"
+temperature: 0.7
+max_tokens: 128
+base_url: "https://api.groq.com/openai/v1"
+timeout: 30
+
+# Retry
+retry_count: 3
