@@ -22,7 +22,7 @@ It is designed for developers who want:
 
 * **Sync & async** support out‑of‑the‑box.
 * **Parser‑driven retries** that auto‑repair malformed model output.
-* Drop‑in **adapters** for LangChain, Llama‑Index, Pydantic‑AI and friends.
+* Drop‑in **adapters** for LangChain, Llama‑Index, Pydantic‑AI and other frameworks.
 * A **Pydantic‑powered configuration** system you can load from `config.yaml`, environment variables, or code.
 
 > **Why do I need this?**  If you have ever peppered your codebase with ad‑hoc OpenAI calls, copy‑pasted retry loops, or fought with schema validation, `llm_client` gives you a reusable core so you can focus on *product* rather than plumbing.
